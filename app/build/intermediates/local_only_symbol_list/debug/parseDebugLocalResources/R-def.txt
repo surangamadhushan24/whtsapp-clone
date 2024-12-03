@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable profile1
+id editText
+id imageView2
+id recycler_view
+id tabLayout
+id textView
+id textView2
+id textView3
+id viewPager
+layout activity_main
+layout fragment_call
+layout fragment_chat
+layout fragment_status
+layout text_row_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string element_text
+string hello_blank_fragment
+style Theme.Whtsapp3
+xml backup_rules
+xml data_extraction_rules
