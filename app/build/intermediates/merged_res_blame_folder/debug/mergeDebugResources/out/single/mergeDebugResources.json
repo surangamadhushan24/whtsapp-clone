@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-debug-58:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-main-60:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-debug-58:\\layout_fragment_chat.xml.flat",
+        "source": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-main-60:\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-debug-58:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-main-60:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-debug-58:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-main-60:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-debug-58:\\layout_fragment_status.xml.flat",
+        "source": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-main-60:\\layout\\fragment_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-debug-58:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-main-60:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-debug-58:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-main-60:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-debug-58:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-main-60:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-debug-58:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-main-60:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-debug-58:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-main-60:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-debug-58:\\layout_fragment_call.xml.flat",
+        "source": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-main-60:\\layout\\fragment_call.xml"
+    },
+    {
+        "merged": "com.nibm.whtsapp3.app-debug-58:/layout_fragment_call.xml.flat",
+        "source": "com.nibm.whtsapp3.app-main-60:/layout/fragment_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-debug-58:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-main-60:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-debug-58:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-main-60:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-debug-58:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-main-60:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-debug-58:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-main-60:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-debug-58:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-main-60:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-debug-58:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-main-60:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-debug-58:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-main-60:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-debug-58:\\layout_text_row_item.xml.flat",
+        "source": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-main-60:\\layout\\text_row_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-debug-58:\\drawable_profile1.jpg.flat",
+        "source": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-main-60:\\drawable\\profile1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-debug-58:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-main-60:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-debug-58:\\drawable_profile.jpg.flat",
+        "source": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-main-60:\\drawable\\profile.jpg"
+    },
+    {
+        "merged": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-debug-58:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\madhushan\\.gradle\\daemon\\8.7\\com.nibm.whtsapp3.app-main-60:\\layout\\activity_main.xml"
+    }
+]

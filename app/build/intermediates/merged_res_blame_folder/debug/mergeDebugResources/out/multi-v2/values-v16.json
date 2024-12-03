@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.nibm.whtsapp3.app-mergeDebugResources-56:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\madhushan\\.gradle\\caches\\transforms-4\\a5daed3168bbdf12d3013516d1356e6c\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}
